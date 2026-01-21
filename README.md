@@ -2,7 +2,7 @@
 
 Database Administrator | IT Operations | Cloud Learner  
 
-- 3+ years experience in Helpdesk & DBA roles  
+- 3+ years experience in IT operations & DBA roles  
 - Hands-on with MSSQL, MySQL, Linux, Nginx, IIS  
 - Currently preparing for AWS roles  
 
